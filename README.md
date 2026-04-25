@@ -1,12 +1,13 @@
-![Banner](./୨୧%20uika.jpg)
+
+![Banner](./mafuyu_upscayl_2x_upscayl-standard-4x.png)
 
 # Hi there, I'm Re-L77!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=350&color=91ADD6&center=true&vCenter=true&width=900&height=100&lines=Present+day%2C+heh...;Present+Time!+Hahahahahah....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=350&color=C0C7CF&center=true&vCenter=true&width=900&height=100&lines=Code.+Ship.+Repeat.;Powered+by+Arch+and+Metal.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Re--L77-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Re-L77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--pablo--ordaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-ordaz-magos-b0009a347) 
 [![Instagram](https://img.shields.io/badge/Instagram-c_papu_lil_mayer-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c_papu_lil_mayer)
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Lover-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/) [![Email](https://img.shields.io/badge/Contact-Available-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proxyone.knives@gmail.com)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Lover-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/) [![Metal Mode](https://img.shields.io/badge/Metal%20Mode-ON-2f3338?style=for-the-badge&logo=musicbrainz&logoColor=c0c7cf)](#) [![Email](https://img.shields.io/badge/Contact-Available-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proxyone.knives@gmail.com)
 
 ---
 
