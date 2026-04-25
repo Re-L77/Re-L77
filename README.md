@@ -1,30 +1,34 @@
-# Hola, soy Re-L77
+![Banner](./୨୧%20uika.jpg)
 
+# Hi there, I'm Re-L77!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=350&color=91ADD6&center=true&vCenter=true&width=900&height=100&lines=Present+day%2C+heh...;Present+Time!+Hahahahahah....)](https://git.io/typing-svg)
 
-<p align="center">
-	<a href="https://archlinux.org/">
-		<img alt="Arch Linux Lover" src="https://img.shields.io/badge/Arch%20Linux-Lover-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-	</a>
-	<a href="mailto:proxyone.knives@gmail.com">
-		<img alt="Contacto" src="https://img.shields.io/badge/Contacto-Disponible-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Re--L77-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Re-L77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--pablo--ordaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-ordaz-magos-b0009a347) 
+[![Instagram](https://img.shields.io/badge/Instagram-c_papu_lil_mayer-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c_papu_lil_mayer)
+
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Lover-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/) [![Email](https://img.shields.io/badge/Contact-Available-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proxyone.knives@gmail.com)
 
 ---
 
-## Quién soy
+## About Me
 
-Construyo software enfocado en resultados: rendimiento, mantenibilidad y experiencia de usuario.
-Me gusta trabajar con buenas prácticas de ingeniería, CI/CD, testing y arquitectura limpia para entregar productos robustos y escalables.
+I build outcome-driven software focused on performance, maintainability, and user experience.
+I enjoy working with solid engineering practices, CI/CD, testing, and clean architecture to deliver robust and scalable products.
 
-- Enfoque: backend, móvil multiplataforma, automatización y calidad de código.
-- Estilo: pragmatismo técnico + estándares de producción.
-- Objetivo: convertir problemas complejos en soluciones simples y confiables.
+- Focus: backend, cross-platform mobile, automation, and code quality.
+- Style: technical pragmatism + production-grade standards.
+- Goal: turn complex problems into simple, reliable solutions.
+
+## Current Status
+
+- 🔭 Currently working on: serverless architectures and automated workflow orchestration.
+- 🌱 Currently learning: AI integrations and practical Web3-oriented backend patterns.
+- 💼 Looking for: internship opportunities and collaborations on high-impact backend projects.
+
 
 ---
 
-## Lenguajes y Herramientas
+## Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -35,26 +39,27 @@ Me gusta trabajar con buenas prácticas de ingeniería, CI/CD, testing y arquite
 ---
 
 
-## Metodología de trabajo
+## Work Methodology
 
-- Planificación orientada a objetivos y entregables medibles.
-- Código limpio, revisiones consistentes y estándares de equipo.
-- Testing como base de confianza antes del despliegue.
-- Iteración rápida con foco en calidad y feedback continuo.
+- Goal-oriented planning with measurable deliverables.
+- Clean code, consistent reviews, and strong team standards.
+- Testing as the foundation of confidence before deployment.
+- Fast iteration focused on quality and continuous feedback.
 
 
 ---
 
-## Contacto
+## Contact
 
-Estoy abierto a colaboraciones, retos técnicos y oportunidades para construir productos de alto impacto.
+I am open to collaborations, technical challenges, and opportunities to build high-impact products.
 
 - Email: proxyone.knives@gmail.com
 - LinkedIn: https://www.linkedin.com/in/juan-pablo-ordaz-magos-b0009a347
 
 ---
 
-## Frase de trabajo
+## Work Motto
 
-> "Do it yourself, Did say i use arch linux? Hahahahahah..." - Re-L77
+> "Do it yourself. Did I mention I use Arch Linux? Hahahahahah..." - Re-L77
 
+![Footer](./Yuutenji%20Nyamu.jpg)
