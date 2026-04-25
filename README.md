@@ -1,8 +1,6 @@
 # Hola, soy Re-L77
 
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=400&color=00A884&center=true&vCenter=true&width=1000&lines=Present+day,; present+time" alt="Typing intro" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=350&color=91ADD6&center=true&vCenter=true&width=900&height=100&lines=Present+day%2C+heh...;Present+Time!+Hahahahahah....)](https://git.io/typing-svg)
 
 <p align="center">
 	<a href="https://archlinux.org/">
