@@ -72,6 +72,6 @@ I am open to collaborations, technical challenges, and opportunities to build hi
 
 ## /work_motto
 
-> "Do it yourself. Did I mention I use Arch Linux? Hahahahahah..." - Re-L77
+> "Do it yourself. I use Arch Linux btw.... :V" - Re-L77
 
 ![Footer](./Yuutenji%20Nyamu.jpg)
