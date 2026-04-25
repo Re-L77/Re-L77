@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+## /about_me 👨‍💻
 
 I build outcome-driven software focused on performance, maintainability, and user experience.
 I enjoy working with solid engineering practices, CI/CD, testing, and clean architecture to deliver robust and scalable products.
@@ -20,16 +20,25 @@ I enjoy working with solid engineering practices, CI/CD, testing, and clean arch
 - Style: technical pragmatism + production-grade standards.
 - Goal: turn complex problems into simple, reliable solutions.
 
-## Current Status
+## /current_status
 
 - 🔭 Currently working on: serverless architectures and automated workflow orchestration.
 - 🌱 Currently learning: AI integrations and practical Web3-oriented backend patterns.
 - 💼 Looking for: internship opportunities and collaborations on high-impact backend projects.
 
+## /dev/random 🎲
+
+When I am not writing code, you can find me:
+
+- 🎸 Trying to master electric guitar riffs.
+- 🎧 Exploring the culture and technology behind voice synthesizers like Kasane Teto.
+- 🐧 Spending (maybe too much) time refining my Arch Linux setup and tinkering with window managers like Hyprland and Sway.
+- 📚 Taking a break from the terminal by watching anime or diving into light novels.
+
 
 ---
 
-## Languages and Tools
+## /languages_and_tools 🧰
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -40,7 +49,7 @@ I enjoy working with solid engineering practices, CI/CD, testing, and clean arch
 ---
 
 
-## Work Methodology
+## /work_methodology
 
 - Goal-oriented planning with measurable deliverables.
 - Clean code, consistent reviews, and strong team standards.
@@ -50,16 +59,17 @@ I enjoy working with solid engineering practices, CI/CD, testing, and clean arch
 
 ---
 
-## Contact
+## /contact 📬
 
 I am open to collaborations, technical challenges, and opportunities to build high-impact products.
 
 - Email: proxyone.knives@gmail.com
 - LinkedIn: https://www.linkedin.com/in/juan-pablo-ordaz-magos-b0009a347
+- Instagram: https://instagram.com/c_papu_lil_mayer
 
 ---
 
-## Work Motto
+## /work_motto
 
 > "Do it yourself. Did I mention I use Arch Linux? Hahahahahah..." - Re-L77
 
