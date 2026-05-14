@@ -72,6 +72,6 @@ I am open to collaborations, technical challenges, and opportunities to build hi
 
 ## /work_motto
 
-> "I use Arch Linux btw..." - Re-L77
+> "I use Arch Linux, btw..." - Re-L77
 
 ![Footer](./Yuutenji%20Nyamu.webp)
