@@ -1,5 +1,5 @@
 
-![Banner](./mafuyu.png)
+![Banner](./mafuyu.webp)
 
 # Hi there, I'm Re-L77!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=350&color=91ADD6&center=true&vCenter=true&width=900&height=100&lines=Present+day%2C+heh...;Present+Time!+Hahahahahah....)](https://git.io/typing-svg)
@@ -74,4 +74,4 @@ I am open to collaborations, technical challenges, and opportunities to build hi
 
 > "Do it yourself. Did I mention I use Arch Linux? Hahahahahah..." - Re-L77
 
-![Footer](./Yuutenji%20Nyamu.jpg)
+![Footer](./Yuutenji%20Nyamu.webp)
